@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.cardbody {
+  width: 300px;
+  height: 150px;
+  border: solid 1px black;
+  margin: 10px;
+  flex: wrap;
+}
+
+td {
+  display: flex;
+  flex: wrap;
+  flex: center;
+}
