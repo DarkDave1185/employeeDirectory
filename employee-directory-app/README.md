@@ -9,20 +9,22 @@
 
 ## Description
 
-When the user loads the page, they are given the option to create a new workout or continue with their last workout.
+The user can view the entire employee directory at once so that they have quick access to their information. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees.
 
 ## Installation
 
 - npm i
-- npm i mongoose
-- npm i express
-- (need Server-Side application )
 
 ## Usage
 
-Fill out the form to keep track and motivate to complete workout tasks. A consumer will reach their fitness goals more quickly when they track their workout progress.
+Given a table of random users, when the user loads the page, a table of employees should render.
+
+The user can:
+
+- Sort the table (alphabatize)
+- Filter the users (i.e. search "kelly" or "felicia" )
 
 ## ScreenShots
 
-![workout-input](https://github.com/DarkDave1185/workoutTracker/blob/master/public/images/screenshot.JPG)
-![workout-dashboard](https://github.com/DarkDave1185/workoutTracker/blob/master/public/images/screenshot2.JPG)
+![directory-load](https://github.com/DarkDave1185/employeeDirectory/blob/main/employee-directory-app/src/screenshots/screenshot.JPG)
+![directory-filter](https://github.com/DarkDave1185/employeeDirectory/blob/main/employee-directory-app/src/screenshots/screenshot1.JPG)
