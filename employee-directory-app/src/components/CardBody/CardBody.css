@@ -9,16 +9,24 @@
   flex-wrap: wrap;
 }
 
-.cardbody {
-  width: 300px;
+tr .cardbody {
+  width: 400px;
   height: 150px;
-  border: solid 1px black;
   margin: 10px;
-  flex: wrap;
+  border: solid black 1px;
+  margin: 10px;
 }
 
 td {
+  margin: 2px;
   display: flex;
   flex: wrap;
   flex: center;
+  border-top: solid black 1px;
+  border-bottom: solid black 1px;
+}
+
+.object {
+  border: rgb(0, 0, 139, 0.8) solid 5px;
+  margin: 10px;
 }

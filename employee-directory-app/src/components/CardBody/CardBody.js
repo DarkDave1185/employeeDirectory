@@ -3,8 +3,8 @@ import "./CardBody.css";
 
 function CardBody(props) {
   return (
-    <div class="cardbody">
-      <tr>
+    <div class="object">
+      <tr class="cardbody">
         <td>
           <img alt={props.name} src={props.picture}></img>
         </td>
