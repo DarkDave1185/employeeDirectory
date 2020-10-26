@@ -27,4 +27,4 @@ The user can:
 ## ScreenShots
 
 ![directory-load](https://github.com/DarkDave1185/employeeDirectory/blob/main/employee-directory-app/src/screenshots/screenshot.JPG)
-![directory-filter](https://raw.githubusercontent.com/DarkDave1185/employeeDirectory/main/src/screenshots/screenshot1.JPG)
+![directory-filter](https://github.com/DarkDave1185/employeeDirectory/blob/main/employee-directory-app/src/screenshots/screenshot1.JPG)
